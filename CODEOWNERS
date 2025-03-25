@@ -1,0 +1,11 @@
+# This is a comment
+# Code owners for specific files
+
+# Assign user @username to review any changes in the 'src/' directory
+/src/ @Steps-Tech
+
+# Assign team @org/team to review all files in the 'docs/' directory
+/docs/ @Steps-Tech
+
+# Specific files can be assigned to users
+README.md @Steps-Tech
